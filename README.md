@@ -1,2 +1,1 @@
-# Insertar_Extraer_Ficheros_Tabla_Oracle_Python
- Insertar y extraer ficheros en tabla de Oracle con Python
+Insertar y extraer ficheros en una tabla de Oracle con un campo BLOB usando código Python. Un ejemplo de inserción de registro en tabla Oracle, con un campo BLOB, selección de registros (para mostrar el contenido de una tabla) y extracción de documentos de campos BLOB de Oracle. Más información en: https://proyectoa.com/insertar-y-extraer-ficheros-en-tabla-de-oracle-con-python/
